@@ -1,0 +1,905 @@
+This is a test when the spikes are reset for the output layer after each example and for the entire network after each epoch.
+%%%%%%%%%%%%%%%%A new test iteration is started with epochs  200  learning rate  0.001  and threshold  20.2
+%%%%%%%%%%%%%%%%%%%%Start of simulation%%%%%%%%%%%%%%%%%%%%%%%%
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The error is  22.5
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The error is  22.5
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The error is  22.5
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The error is  22.5
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The error is  22.5
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The error is  22.5
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The error is  22.5
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The error is  22.5
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The error is  22.5
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The error is  22.5
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The error is  22.5
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The error is  22.5
+The input layer is  [ 0.  0.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  6.  0.]
+The expected spikes are  [ 16.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 13.]
+The predicted spike times are ++++++++  [ 13.]
+The input layer is  [ 0.  6.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++  [ 10.]
+The input layer is  [ 6.  0.  0.]
+The expected spikes are  [ 10.]
+The forward propagation phase started *********
+The predicted spike times are ++++++++  [ 10.]
+The predicted spike times are ++++++++ 

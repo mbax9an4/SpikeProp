@@ -1,0 +1,5 @@
+This is a test when the spikes are reset for the output layer after each example and for the entire network after each epoch.
+A new test iteration is started with epochs  300  learning rate  0.0001  and threshold  1.2
+3
+0.0
+0.0
